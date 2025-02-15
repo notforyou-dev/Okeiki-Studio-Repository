@@ -7,5 +7,5 @@
 
 </p>
 <p align="center" style="font-size: 24px">
-    - <img src="https://flagcdn.com/w40/ru.png"> [Русский](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.ru.md">README.en.md</a>)
+    - <img src="https://flagcdn.com/w40/ru.png"> [Русский](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.ru.md">README.ru.md</a>)
 </p>
