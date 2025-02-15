@@ -7,6 +7,6 @@
 
 </p>
 <p align="center" style="font-size: 24px">
-    - <img src="https://flagcdn.com/w40/ru.png"> [Русский](README.ru.mf)
+    - <img src="https://flagcdn.com/w40/ru.png"> [Русский](README.ru.md)
 </p>
 </table>
