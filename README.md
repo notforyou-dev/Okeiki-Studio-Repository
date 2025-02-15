@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-<h1 align="center" style="font-size: 48px">🥚 Okeiki Project</h1>
+<h1 align="center" style="font-size: 48px">🥚 Okeiki Studio</h1>
 
 <p align="center">
     <img src="assets/OKEIKI_STUDIO.png" alt="Логотип проекта" width="400">
