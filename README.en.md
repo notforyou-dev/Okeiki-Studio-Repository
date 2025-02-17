@@ -15,7 +15,7 @@
 
 <p align="center" style="font-size: 24px;">
 This is a repository from the Okeiki Studio team.
-You can trust us to develop applications and games.
+I assure You, You can trust us to develop applications and games.
 </p>
 
 <p align="center" style="font-size: 32px">
