@@ -8,6 +8,9 @@
     - <img src="https://flagcdn.com/w40/ru.png"> [Русский](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.ru.md">README.ru.md</a>)
 </p>
 <p align="center" style="font-size: 24px">
+    - <img src="https://flagcdn.com/w40/es.png"> [Español](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.es.md">README.es.md</a>)
+</p>
+<p align="center" style="font-size: 24px">
     - <img src="https://flagcdn.com/w40/cn.png"> [中文](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.cn.md">README.cn.md</a>)
 </p>
 <p align="center" style="font-size: 24px">
