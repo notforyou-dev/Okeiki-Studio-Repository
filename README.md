@@ -1,7 +1,5 @@
 <meta charset="utf-8">
-<p align="center" style="font-size: 24px">
-    <strong>Выберите язык | Choose you language</strong>
-</p>
+<h1 align="center" style="font-size: 48px"><strong>Выберите язык | Choose you language</strong></h1>
 <p align="center" style="font-size: 24px">
     - <img src="https://flagcdn.com/w40/gb.png"> [English](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.en.md">README.en.md</a>)
 
