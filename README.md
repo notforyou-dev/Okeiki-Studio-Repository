@@ -10,5 +10,5 @@
     - <img src="https://flagcdn.com/w40/ru.png"> [Русский](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.ru.md">README.ru.md</a>)
 </p>
 <p align="center" style="font-size: 24px">
-    - <img src="https://flagcdn.com/w40/ja.png"> [日本語](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.ja md">README.ja.md</a>)
+    - <img src="https://flagcdn.com/w40/jpn.png"> [日本語](<a href="https://github.com/notforyou-dev/Okeiki-Studio-Repository/blob/main/README.ja. md">README.ja.md</a>)
 </p>
