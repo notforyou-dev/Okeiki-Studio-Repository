@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="font-size: 32px">
-  ## 🤨 What is this??
+  ## 🤨 What is this?
 </p>
 
 <p align="center">
