@@ -2,7 +2,7 @@
 <h1 align="center" style="font-size: 48px">🥚 Okeiki Studio</h1>
 
 <p align="center">
-    <img src="assets/OKEIKI_STUDIO.png" alt="Логотип проекта" width="400">
+    <img src="assets/OKEIKI_STUDIO.png" alt="スタジオロゴ" width="400">
 </p>
 
 <p align="center" style="font-size: 32px">
@@ -10,7 +10,7 @@
 </p>それは何ですか？
 
 <p align="center">
-    <img src="assets/OKEIKI_PROJECT.png" alt="Скриншот работы" width="300">
+    <img src="assets/OKEIKI_PROJECT.png" alt="プロジェクトロゴ" width="300">
 </p>
 
 <p align="center" style="font-size: 24px;">
