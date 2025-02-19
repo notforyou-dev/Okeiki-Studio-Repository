@@ -6,20 +6,20 @@
 </p>
 
 <p align="center" style="font-size: 32px">
-  ## 🤨 Что это?
-</p>
+  ## 🤨 それは何ですか
+</p>それは何ですか？
 
 <p align="center">
     <img src="assets/OKEIKI_PROJECT.png" alt="Скриншот работы" width="300">
 </p>
 
 <p align="center" style="font-size: 24px;">
-Это репозиторий команды Okeiki Studio.
-Уверяю Вас, Вы можете доверить нам разработку приложений и игр.
+これはOkeiki Studioチームのリポジトリです。
+私はあなたを保証します、あなたは私たちがアプリケーションやゲームを開発することを信頼することができます。
 </p>
 
 <p align="center" style="font-size: 32px">
-  ## 🤝 Авторы:
+  ## 🤝 クリエーターたち:
 </p>
 
 <table align="center">
