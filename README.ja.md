@@ -6,8 +6,8 @@
 </p>
 
 <p align="center" style="font-size: 32px">
-  ## 🤨 それは何ですか
-</p>それは何ですか？
+  ## 🤨 それは何ですか?
+</p>
 
 <p align="center">
     <img src="assets/OKEIKI_PROJECT.png" alt="プロジェクトロゴ" width="300">
