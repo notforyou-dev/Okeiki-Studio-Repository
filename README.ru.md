@@ -30,9 +30,9 @@
       <a href="https://github.com/notforyou-dev">@notforyou-dev</a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/194370947?v=4" width="100" style="border-radius: 50%"><br>
-      <b>Ruski bober</b><br>
-      <a href="https://github.com/polskibober">@polskibober</a>
+      <img src="https://avatars.githubusercontent.com/u/204309024?v=4" width="100" style="border-radius: 50%"><br>
+      <b>notforme!</b><br>
+      <a href="https://github.com/notforme-dev">@notforme-dev</a>
     </td>
   </tr>
 </table>
